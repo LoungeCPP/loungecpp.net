@@ -1,0 +1,52 @@
+[[Category:Game Jams]]
+
+{{Past event}}
+
+Theme options:
+
+# two of 'Strength in Numbers', 'The Walls are Moving', 'Confined'.
+# one of 'A game where you ostracize pregnancy with terraforming', 'A game where you freeze familiar scents in North Korea', 'A game where you rewrite maths and your sidekick is a bird'.
+
+= Entries =
+
+{{Game Jam entry
+  |name=The Shit 2 Game
+  |description=The goal of the game is to predict where the ball will end up once thrown into the board.
+  |author=Andy Prowl
+  |language=C++
+  |url=https://github.com/andyprowl/shittwo
+}}
+
+{{Game Jam entry
+  |name=2048 3D
+  |description=A Puzzle/numbers game based on http://git.io/2048 extrapolated to 3D.
+  |author=melak47
+  |language=C++
+  |url=https://github.com/melak47/2048_3D
+}}
+
+= Awards =
+
+TBD
+
+= Rules of engagement =
+
+# Time
+## The 3rd Great Lounge Game Jam will take place on the weekend of March 15-16, 2014.
+## The competition will start on Saturday at 19:00 UTC and end on Sunday at 19:00 UTC. Yes, that's 24 hours!
+# Participants
+## Each participant is a team of between 1 and 3 individuals.
+# Entries
+## Each participant must have their entry published on a publicly available source code repository when the event ends.
+## Each entry must be accompanied by a description of its contents, including any build/run/play instructions that might be required. (Note that while it is not mandatory to provide binaries for any platform, ready-made distributions make it easier for potential voters to try out the game.)
+## Entries can make use of any kind of graphics.
+## Shortly before the jam starts three themes will be selected randomly from the [http://www.cowfacegames.com/handytools/ludum-dare-theme-generator Cowface Games generator] and three other themes from the [http://orteil.dashnet.org/gamegen Orteil's Stuff generator] (with Sanity off). Each participant has to incorporate some of those themes in their entry. Either:
+##* two themes out of the three generated with the Cowface Games generator; or
+##* one theme out of the three generated with the Orteil's Stuff generator.
+# Technical
+## Participants can make use of any programming language.
+## Participants can make use of any external resources (libraries, art, etc) that are available for free on the Internet.
+# Awards
+## Voting for awards takes place during the week following the end of the jam.
+## Anyone can vote, even those that didn't participate.
+

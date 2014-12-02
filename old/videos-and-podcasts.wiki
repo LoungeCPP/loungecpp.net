@@ -1,0 +1,76 @@
+[[Category:C++]]
+Since I got tired of posting these links again and again in the C++ lounge, here is a collection of C++ videos and podcasts that I find particularly interesting, sorted alphabetically by the celebrity's last name and then roughly by publication date. Feel free to add more.
+
+= Andrei Alexandrescu =
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Variadic-Templates-are-Funadic Variadic Templates are Funadic]
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Static-If-I-Had-a-Hammer Static If I Had a Hammer]
+
+= Hans Boehm =
+* [http://www.youtube.com/watch?v=mrvAqvtWYb4 Getting C++ Threads Right]
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Threads-and-Shared-Variables-in-C-11 Threads and Shared Variables in C++11]
+
+= Lawrence Crowl =
+* [http://www.youtube.com/watch?v=ZAG5txfYnW4 New Features in the Next C++ Standard]
+* [http://www.youtube.com/watch?v=JffvCivHEHU An Overview of the Coming C++0x standard]
+* [http://www.youtube.com/watch?v=3JUXPaovfzw C++ Threads]
+
+= Douglas Gregor =
+* [http://www.youtube.com/watch?v=Ot4WdHAGSGo Concepts Extending C++ Templates]
+
+= Kate Gregory =
+* [http://channel9.msdn.com/Events/TechEd/NorthAmerica/2011/DEV303 Modern Native C++ Development]
+* [http://channel9.msdn.com/Blogs/Charles/VC-MVP-Summit-Kate-Gregory Talkin' C++ with Kate Gregory]
+
+= Kevlin Henney =
+* [http://www.youtube.com/watch?v=zh8W4ZglOlw C++ Stylistics]
+* [http://www.se-radio.net/2008/03/episode-91-kevlin-henney-on-c Software Engineering Radio]
+
+= Stephan T. Lavavej =
+* [http://channel9.msdn.com/Shows/Going+Deep/Stephan-T-Lavavej-Digging-into-C-Technical-Report-1-TR1 Digging Into TR1]
+* [http://channel9.msdn.com/Shows/Going+Deep/VC-10-Stephan-T-Lavavej-and-Damien-Watkins-Inside-STL Inside STL]
+* [http://channel9.msdn.com/Shows/Going+Deep/STL-Some-Underlying-Algorithms-Data-Structures-and-More-with-Stephan-T-Lavavej Algorithms and Data Structures]
+* [http://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Introduction-to-STL-with-Stephan-T-Lavavej STL Introduction series]
+* [http://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Stephan-T-Lavavej-Advanced-STL-1-of-n Advanced STL series]
+* [http://channel9.msdn.com/Shows/Checking-In-with-Erik-Meijer/Checking-In-Stephan-T-Lavavej-Inside-STL-the-person-not-the-library Inside STL]
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/STL11-Magic-Secrets STL11 Magic && Secrets]
+
+= Scott Meyers =
+* [http://www.youtube.com/watch?v=Ja5zJ_eAu-w A Unique Perspective on C++]
+* [http://video.google.com/videoplay?docid=-4728145737208991310 Generalizing Const]
+* [http://skillsmatter.com/podcast/home/move-semanticsperfect-forwarding-and-rvalue-references Rvalue References]
+* [http://www.se-radio.net/2010/04/episode-159-c-0x-with-scott-meyers Software Engineering Radio]
+
+= Bartosz Milewski =
+* [http://vimeo.com/7211030 Haskell and C++ Template Metaprogramming]
+* [http://vimeo.com/17031425 Understanding C++ Concepts through Haskell Type Classes]
+* [http://www.corensic.com/Learn/Resources/ConcurrencyTutorialPartOne.aspx C++11 Concurrency Series]
+
+= Roger Orr =
+* [http://video.google.com/videoplay?docid=2165553273160626549 The New C++ Standard]
+
+= Bjarne Stroustrup =
+* [http://csclub.uwaterloo.ca/media/C++0x%20-%20An%20Overview C++0x An Overview] (University of Waterloo)
+* [http://video.google.com/videoplay?docid=-3478907067117491758 C++0x An Overview] (Google)
+* [http://www-sop.inria.fr/geometrica/events/WG21_meeting_june_2008/ConfINRIA10juin1_stroustrup.rm C++0x An Overview] (Conference INRIA)
+* [http://indico.cern.ch/conferenceDisplay.py?confId=67017 C++0x An Overview] (CERN)
+* [http://www.youtube.com/watch?v=uEqknlxXJfg Initialization Lists]
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Keynote-Bjarne-Stroustrup-Cpp11-Style C++11 Style]
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/A-Concept-Design-for-C- A Concept Design for C++]
+
+= Herb Sutter =
+* [http://video.google.com/videoplay?docid=7625918717318948700 C++ Futures]
+* [http://channel9.msdn.com/Shows/Going+Deep/E2E-Herb-Sutter-and-Erik-Meijer-Perspectives-on-C Perspectives on C++]
+* [http://channel9.msdn.com/Shows/Going+Deep/Conversation-with-Herb-Sutter-Perspectives-on-Modern-C0x11 Perspectives on Modern C++]
+* [http://vimeo.com/23975522 C++0x Lambda Functions]
+* [http://channel9.msdn.com/Shows/Going+Deep/Herb-Sutter-C-Questions-and-Answers C++ Questions and Answers]
+* [http://channel9.msdn.com/posts/C-and-Beyond-2011-Herb-Sutter-Why-C Why C++?]
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/C-11-VC-11-and-Beyond C++11, VC++11 and Beyond]
+
+= Panels =
+* [http://channel9.msdn.com/Shows/Going+Deep/C-and-Beyond-2011-C11-Panel-Scott-Meyers-Andrei-Alexandrescu-and-Herb-Sutter C++11 and Beyond 2011 Panel]
+* [http://channel9.msdn.com/posts/Scott-Meyers-Andrei-Alexandrescu-and-Herb-Sutter-C-and-Beyond C++ and Beyond 2011 Debriefing]
+* [http://channel9.msdn.com/Shows/Going+Deep/CB-2011-Panel-Herb-Sutter-Andrei-Alexandrescu-and-Scott-Meyers-Concurrency-and-Parallelism Concurrency and Parallelism]
+* [http://channel9.msdn.com/Shows/Going+Deep/C-and-Beyond-2011-Scott-Andrei-and-Herb-Ask-Us-Anything Ask Us Anything]
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Interactive-Panel-The-Importance-of-Being-Native The Importance of Being Native]
+* [http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Interactive-Panel-Ask-Us-Anything- Ask Us Anything]
+

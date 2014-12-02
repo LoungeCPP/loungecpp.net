@@ -1,0 +1,41 @@
+The Great Meritocracy of C++, aka the Lounge, was a place renowned for its open mindedness and intolerance for assholes.
+Unfortunately, as its fame grew larger and larger, it started attracting all kinds of trolls, idiots and C programmers.
+As such, it is now necessary to keep track of those douchelords, so that we can issue an appropriate ass kicking (usually trolling, because flagging is for noobs and members of the PHP room) whenever they forget to take their medication.
+
+== The Brown List ==
+
+Basically, shitty contributors we'd rather not see ever again. Lounge regulars are encouraged to check out the list if repeated offender's presence is suspected.
+
+{| class="wikitable"
+|-
+! Offender
+! Crime against Lounginity
+! Recommended response
+|-
+| [http://chat.stackoverflow.com/users/1435323/againstasicilian AgainstASicilian]
+| Asks for help about simple tasks that can be solved by looking at the docs, repeatedly rejects actual solutions, claims anyone trying to help them is stupid and has no idea what they're talking about. Also an incompetent idiot spewing crap about how he knows better because he EARNS SO MUCH MONEY (despite openly admitting that he's not even a programmer; what a hack).
+| Beware: makes twenty times your salary. Just ignore, really.
+|-
+| [http://chat.stackoverflow.com/users/1219213/chx101 chx101]
+| Comes in to ask about an alternative to base64, then starts acting like we all owe him something. Called a few regulars "bitch" and started yelling before being finally flagged to death. Is likely to come back.
+| Troll, flag and bin.
+|-
+| [http://chat.stackoverflow.com/users/1294452/discretegenius DiscreteGenius]
+| Will not shut up about he managed to obtain the answer he was looking for from the "crazy folks of the C++ lounge". Will also not stop bragging about how his question was clear and simple just because someone managed to somehow guess the right answer, even though everyone is complaining about not actually understanding the question. Will also not "bow to ridicule", whatever that means.
+| Just link to http://chat.stackoverflow.com/chats/leave/10
+|-
+| [http://chat.stackoverflow.com/users/1690130/user1690130 user1690130 ]
+| Textbook case of a help vampire. Kept pestering ''everyone'' for help.
+| Plonk at will. Flag if it gets out of hand.
+|-
+| [http://chat.stackoverflow.com/users/1779823/baumr Baumr]
+| Link dumping, and then arguing for an hour that THIS IS NOT DUMPING, THIS IS SHARING. Clearly doesn't give a fuck about established community. Also DELICATE FLOWER FEELINGS OFFENDED MUST FLAG. I can't put into words how annoying they are.
+| Can't take a fucking hint, so just shut up and ignore them.
+|-
+| [http://chat.stackoverflow.com/users/2528250/aaron-kyle-killeen Aaron Kyle Killeen]
+| Unfunny troll and/or gimmick, bigot with terrible opinions about everything, extremely annoying.
+| Avoid contact, seek medical help in the event of prolonged exposure.
+|}
+
+[[Category:Chat]]
+
