@@ -1,0 +1,13 @@
+!!! 5
+%html{lang: 'en'}
+  %head
+    %meta{charset: 'utf-8'}
+    %title
+      = render_title(current_page.data.title)
+    = stylesheet_link_tag 'all'
+    = javascript_include_tag 'all'
+    = favicon_tag '//assets.loungecpp.net/img/favicon.png'
+  %body{class: page_classes}
+    = yield
+    %script{src: '//www.google-analytics.com/analytics.js', defer: true}
+    = javascript_include_tag 'analytics', defer: true
