@@ -1,3 +1,6 @@
+---
+title: Reducing pain with aliases
+---
 Anyone that has ever tried to do some template meta-programming, has likely run into the need for the [http://stackoverflow.com/a/613132/46642 typename keyword]. Using type traits often involves this keyword.
 
 <source lang="cpp">

@@ -1,2 +1,18 @@
 %h1
   Lounge&lt;C++&gt;
+%p
+  Less temporary, but somehow still temporary #{emote ':iiam:'}
+
+%h2
+  Mandatory reading
+%ul
+  - sitemap.resources.select { |x| x.path.start_with? 'the-law/' }.each do |page|
+    %li
+      = link_to page.data.title, page, :relative => true
+
+%h2
+  Other stuff
+%ul
+  - sitemap.resources.select { |x| (!x.data.title.nil?() && !x.path.start_with?('the-law/')) }.each do |page|
+    %li
+      = link_to page.data.title, page, :relative => true

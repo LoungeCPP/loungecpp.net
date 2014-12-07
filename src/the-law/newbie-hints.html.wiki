@@ -1,3 +1,6 @@
+---
+title: Newbie Hints
+---
 {{Issue|WIKI-1}}
 == Welcome to the Lounge! ==
 

@@ -1,4 +1,6 @@
-(Ab)using range-based for
+---
+title: (Ab)using range-based for
+---
 
 Range-based for loops are syntactic sugar over a traditional loop with iterators. They make the previous idiom simpler and also enable some new ones.
 

@@ -1,3 +1,7 @@
+---
+title: EnableIf in C++11
+---
+
 __TOC__
 
 In C++03 one could use SFINAE to enable or disable overloads based on a boolean condition with a simple metafunction that usually went by the name <code>enable_if</code>. C++11 now standardised this metafunction. In C++03 one could use this in a number of places, common ones being return types, or extra defaulted parameters:

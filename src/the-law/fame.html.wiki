@@ -1,3 +1,6 @@
+---
+title: Ministry of Fame
+---
 The Great Meritocracy of C++, aka the Lounge, was a place renowned for its open mindedness and intolerance for assholes.
 Unfortunately, as its fame grew larger and larger, it started attracting all kinds of trolls, idiots and C programmers.
 As such, it is now necessary to keep track of those douchelords, so that we can issue an appropriate ass kicking (usually trolling, because flagging is for noobs and members of the PHP room) whenever they forget to take their medication.

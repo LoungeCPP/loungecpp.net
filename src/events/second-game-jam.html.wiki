@@ -1,3 +1,6 @@
+---
+title: Second game jam
+---
 [[Category:Game Jams]]
 {{Past event}}
 

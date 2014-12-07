@@ -1,3 +1,6 @@
+---
+title: Project ideas
+---
 [[Category:Projects]]
 From time to time people want to write something, but can't think of something cool to write.
 

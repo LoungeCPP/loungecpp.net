@@ -1,4 +1,6 @@
-The indices trick
+---
+title: The indices trick
+---
 
 You have a tuple and you want to expand it as if it was a parameter pack. How do you solve that?
 

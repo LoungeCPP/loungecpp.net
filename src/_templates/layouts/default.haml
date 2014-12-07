@@ -10,5 +10,8 @@
   %body{class: page_classes}
     %div.container
       = yield
+      %footer
+        Content on Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported unless noted otherwise.
+        Uses Google Analytics which sets a tracking cookie for statistical purposes (see <a href="https://www.google.com/analytics/learn/privacy.html">GA privacy policy</a>).
     %script{src: '//www.google-analytics.com/analytics.js', defer: true}
     = javascript_include_tag 'analytics', defer: true

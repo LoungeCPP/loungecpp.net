@@ -1,3 +1,6 @@
+---
+title: First game jam
+---
 [[Category:Game Jams]]
 {{Past event}}
 

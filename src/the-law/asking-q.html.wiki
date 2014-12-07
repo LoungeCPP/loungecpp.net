@@ -1,3 +1,6 @@
+---
+title: Asking Questions
+---
 {{Issue|WIKI-3}}
 So, you've come to our wonderful room. Great, we hope you stay and have a good time!
 And you have a question — that's fine. But there are few important things you have to understand first.
