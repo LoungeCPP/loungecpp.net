@@ -1,9 +1,11 @@
 $golden-ratio: 1.61803398875;
 
 $font-family: 'Helvetica Neue', Arial, sans-serif;
-$monospace-font-family: Consolas, Monaco, Menlo, monospace;
-
 $font-size: 14px;
+
+$monospace-font-family: Consolas, Monaco, Menlo, monospace;
+$monospace-font-size: 12px;
+
 $line-height: $font-size * $golden-ratio;
 
 $aqua: #7FDBFF;

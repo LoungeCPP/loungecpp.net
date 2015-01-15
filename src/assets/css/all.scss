@@ -52,9 +52,13 @@ p {
     margin-bottom: $line-height;
 }
 
+code, pre {
+    font-family: $monospace-font-family;
+    font-size: $monospace-font-size;
+}
+
 pre {
     border: dashed 1px $silver;
-    font-family: $monospace-font-family;
     padding: $line-height / (4 * $golden-ratio);
     overflow: auto;
 }
