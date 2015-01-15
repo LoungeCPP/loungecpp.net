@@ -10,8 +10,9 @@
   %body{class: page_classes}
     .page-container
       %header.page-header
-        %h1
-          %a.page-header-logo{href: '/'} Lounge&lt;C++&gt;
+        %img.page-header-logo{src: '//assets.loungecpp.net/img/logo.png', alt: 'Lounge<C++>'}
+        %h1.page-header-title
+          %a{href: '/'} Lounge&lt;C++&gt;
         %p
           Less temporary, but somehow still temporary #{emote ':iiam:'}
       = yield

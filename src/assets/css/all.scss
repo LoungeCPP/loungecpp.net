@@ -113,8 +113,16 @@ pre {
     margin-bottom: $line-height;
 }
 
-.page-header-logo, .page-header-logo:visited {
-    color: $black;
+.page-header-logo {
+    float: right;
+    position: relative;
+    top: -$line-height / (4 * $golden-ratio);
+}
+
+.page-header-title {
+    & > a, & > a.page-header-title:visited {
+        color: $black;
+    }
 }
 
 .page-footer {
