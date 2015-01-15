@@ -1,3 +1,138 @@
 @import "vars";
-@import "bootstrap";
-@import "bootstrap/theme";
+@import "reset";
+
+body {
+    background: $silver;
+    color: $black;
+    font-family: $font-family;
+    font-size: $font-size;
+}
+
+a {
+    color: $blue;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    &:visited {
+        color: $purple;
+    }
+}
+
+h1 {
+    font-size: 2 * $font-size;
+    font-weight: bold;
+    line-height: 2 * $line-height;
+}
+
+h2 {
+    border-bottom: dotted 1px $silver;
+    font-size: 1.5 * $font-size;
+    font-weight: bold;
+    line-height: 2 * $line-height;
+    margin-bottom: $line-height;
+    margin-top: $line-height;
+}
+
+h3 {
+    border-bottom: dotted 1px $silver;
+    font-size: 1.2 * $font-size;
+    font-weight: bold;
+    line-height: 2 * $line-height;
+    margin-bottom: $line-height;
+    margin-top: $line-height;
+}
+
+p, li, th, td, dt, dd, pre {
+    line-height: $line-height;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    text-indent: $line-height;
+}
+
+p {
+    margin-bottom: $line-height;
+}
+
+code, pre {
+    font-family: $monospace-font-family;
+    font-size: $monospace-font-size;
+}
+
+pre {
+    border: dashed 1px $silver;
+    padding: $line-height / (4 * $golden-ratio);
+    overflow: auto;
+}
+
+.wikitable {
+    & > thead, & > tbody, & > tfoot {
+        & > tr {
+            & > th, & > td {
+                border-top: solid 1px $silver;
+                border-left: solid 1px $silver;
+                padding: $line-height / (4 * $golden-ratio);
+
+                &:last-child {
+                    border-right: solid 1px $silver;
+                }
+            }
+
+            & > th {
+                background: $silver;
+                font-weight: bold;
+                text-shadow: fade-out($white, 0.5) 0 1px 0;
+            }
+        }
+
+        &:last-child > tr:last-child {
+            & > th, & > td {
+                border-bottom: solid 1px $silver;
+            }
+        }
+    }
+}
+
+.page-container {
+    background: $white;
+    border-top: none;
+    margin: 0 auto $line-height auto;
+    padding: $line-height;
+    width: 920px;
+}
+
+.page-header {
+    border-bottom: solid 1px $silver;
+    margin-bottom: $line-height;
+}
+
+.page-header-logo {
+    float: right;
+    position: relative;
+    top: -$line-height / (4 * $golden-ratio);
+}
+
+.page-header-title {
+    & > a, & > a.page-header-title:visited {
+        color: $black;
+    }
+}
+
+.page-footer {
+    border-top: solid 1px $silver;
+    margin-top: $line-height;
+    padding-top: $line-height;
+}
+
+.editsection {
+    font-size: $font-size;
+    font-weight: normal;
+    float: right;
+}

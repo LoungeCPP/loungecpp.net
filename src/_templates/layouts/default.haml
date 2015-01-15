@@ -8,10 +8,17 @@
     = javascript_include_tag 'all'
     = favicon_tag '//assets.loungecpp.net/img/favicon.png'
   %body{class: page_classes}
-    %div.container
+    .page-container
+      %header.page-header
+        %img.page-header-logo{src: '//assets.loungecpp.net/img/logo.png', alt: 'Lounge<C++>'}
+        %h1.page-header-title
+          %a{href: '/'} Lounge&lt;C++&gt;
+        %p
+          Less temporary, but somehow still temporary #{emote ':iiam:'}
       = yield
-      %footer
-        Content on Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported unless noted otherwise.
-        Uses Google Analytics which sets a tracking cookie for statistical purposes (see <a href="https://www.google.com/analytics/learn/privacy.html">GA privacy policy</a>).
+      %footer.page-footer
+        %p
+          Content on Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported unless noted otherwise.
+          Uses Google Analytics which sets a tracking cookie for statistical purposes (see <a href="https://www.google.com/analytics/learn/privacy.html">GA privacy policy</a>).
     %script{src: '//www.google-analytics.com/analytics.js', defer: true}
     = javascript_include_tag 'analytics', defer: true
