@@ -10,6 +10,11 @@ body {
 
 a {
     color: $blue;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
 
     &:visited {
         color: $purple;
