@@ -53,7 +53,10 @@ p {
 }
 
 pre {
+    border: dashed 1px $silver;
     font-family: $monospace-font-family;
+    padding: $line-height / (4 * $golden-ratio);
+    overflow: auto;
 }
 
 .wikitable {
