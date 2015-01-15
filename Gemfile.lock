@@ -38,6 +38,7 @@ GEM
       tilt
     hike (1.2.3)
     hitimes (1.2.2)
+    hitimes (1.2.2-x86-mingw32)
     hooks (0.4.0)
       uber (~> 0.0.4)
     i18n (0.6.11)
@@ -89,6 +90,7 @@ GEM
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
+    redcarpet (3.2.2)
     rinku (1.7.3)
     sass (3.4.9)
     sprockets (2.12.3)
@@ -126,5 +128,6 @@ DEPENDENCIES
   compass (~> 1.0.1)
   haml (~> 4.0.6)
   middleman (~> 3.3.7)
+  redcarpet (~> 3.2.2)
   tilt (~> 1.4.1)
   wikicloth (~> 0.8.1)
