@@ -43,24 +43,31 @@ pre {
     font-family: $monospace-font-family;
 }
 
-th, td {
-    border-top: solid 1px $gray;
-    border-left: solid 1px $gray;
-    padding: $line-height / (4 * $golden-ratio);
+.wikitable {
+    & > thead, & > tbody, & > tfoot {
+        & > tr {
+            & > th, & > td {
+                border-top: solid 1px $gray;
+                border-left: solid 1px $gray;
+                padding: $line-height / (4 * $golden-ratio);
 
-    &:last-child {
-        border-right: solid 1px $gray;
-    }
-}
+                &:last-child {
+                    border-right: solid 1px $gray;
+                }
+            }
 
-th {
-    background: $silver;
-    font-weight: bold;
-}
+            & > th {
+                background: $silver;
+                font-weight: bold;
+                text-shadow: fade-out($white, 0.5) 0 1px 0;
+            }
+        }
 
-tr:last-child {
-    & > th, & > td {
-        border-bottom: solid 1px $gray;
+        &:last-child > tr:last-child {
+            & > th, & > td {
+                border-bottom: solid 1px $gray;
+            }
+        }
     }
 }
 
