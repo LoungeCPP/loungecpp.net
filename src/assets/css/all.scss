@@ -85,6 +85,10 @@ pre {
     width: 920px;
 }
 
+.page-header {
+    border-bottom: solid 1px $gray;
+}
+
 .page-footer {
     border-top: solid 1px $gray;
     margin-top: $line-height;
