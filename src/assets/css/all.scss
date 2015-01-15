@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-    border-bottom: dotted 1px $gray;
+    border-bottom: dotted 1px $silver;
     font-size: 1.5 * $font-size;
     font-weight: bold;
     line-height: 2 * $line-height;
@@ -60,12 +60,12 @@ pre {
     & > thead, & > tbody, & > tfoot {
         & > tr {
             & > th, & > td {
-                border-top: solid 1px $gray;
-                border-left: solid 1px $gray;
+                border-top: solid 1px $silver;
+                border-left: solid 1px $silver;
                 padding: $line-height / (4 * $golden-ratio);
 
                 &:last-child {
-                    border-right: solid 1px $gray;
+                    border-right: solid 1px $silver;
                 }
             }
 
@@ -78,7 +78,7 @@ pre {
 
         &:last-child > tr:last-child {
             & > th, & > td {
-                border-bottom: solid 1px $gray;
+                border-bottom: solid 1px $silver;
             }
         }
     }
@@ -86,7 +86,6 @@ pre {
 
 .page-container {
     background: $white;
-    border: solid 1px $gray;
     border-top: none;
     margin: 0 auto $line-height auto;
     padding: $line-height;
@@ -94,12 +93,12 @@ pre {
 }
 
 .page-header {
-    border-bottom: solid 1px $gray;
+    border-bottom: solid 1px $silver;
     margin-bottom: $line-height;
 }
 
 .page-footer {
-    border-top: solid 1px $gray;
+    border-top: solid 1px $silver;
     margin-top: $line-height;
     padding-top: $line-height;
 }
