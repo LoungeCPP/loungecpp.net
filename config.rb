@@ -13,10 +13,11 @@ set :layout, 'default'
 
 set :markdown_engine, :redcarpet
 set :haml, { format: :html5 }
-set :markdown, fenced_code_blocks: true
+set :markdown, fenced_code_blocks: true, tables: true, strikethrough: true, space_after_headers: true, superscript: true, highlight: true, footnotes: true
 
 activate :automatic_image_sizes
 activate :automatic_alt_tags
+activate :directory_indexes
 
 helpers CustomHelpers
 
