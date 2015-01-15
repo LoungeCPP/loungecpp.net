@@ -36,8 +36,16 @@ h2 {
     margin-top: $line-height;
 }
 
-p, li, th, td, pre {
+p, li, th, td, dt, dd, pre {
     line-height: $line-height;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    text-indent: $line-height;
 }
 
 p {
