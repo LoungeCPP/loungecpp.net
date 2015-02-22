@@ -1,4 +1,5 @@
 require 'lib/helpers'
+require 'lib/ext_proofer'
 
 set :source,       'src'
 set :build_dir,    'dist'
@@ -33,4 +34,5 @@ configure :build do
     activate :minify_javascript
     activate :asset_hash, :ignore => ['favicon.png']
     activate :relative_assets
+    activate :proofer
 end
