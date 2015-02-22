@@ -13,7 +13,8 @@ set :layout, 'default'
 
 set :markdown_engine, :redcarpet
 set :haml, { format: :html5 }
-set :markdown, fenced_code_blocks: true, tables: true, strikethrough: true, space_after_headers: true, superscript: true, highlight: true, footnotes: true
+set :markdown, fenced_code_blocks: true, tables: true, strikethrough: true, space_after_headers: true,
+    superscript: true, highlight: true, footnotes: true, disable_indented_code_blocks: true
 
 activate :automatic_image_sizes
 activate :automatic_alt_tags
