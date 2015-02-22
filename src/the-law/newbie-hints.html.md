@@ -35,7 +35,7 @@ if you want to try out chat features!**
 * Messages that are one line can be up to 500 characters long. You can add newlines to make them bigger.
 * Messages that are too big will be truncated and require users to explicitly expand them (they might also get binned).
 * Messages are written using a trimmed down dialect of [Markdown](http://chat.stackoverflow.com/faq#formatting).
-* If message has more than one line, only Markdown elements that work inside it are
+* If message has more than one line, the only Markdown elements that work inside it are
   [block quote and code block](http://meta.stackoverflow.com/questions/70141/70142#70142) (i.e. indentation).
 * You can edit and delete your messages for 2 minutes after they were first posted
   (hover over the message and click the arrow next to the avatar to expand the menu with actions).
@@ -45,10 +45,10 @@ if you want to try out chat features!**
 
 * Posting certain URLs by themselves will trigger inlining (also called oneboxing).
 * Try not to inline Amazon links, they tend to result in boxes far too big.
-* You can inline images (URL must ends with a recognisable extension), but animated GIFs are likely to be binned.
-* Do not link to not-work-safe materials without appropriate warning. You might get kicked anyway, depending on the nature of the link.
+* You can inline images (URL must end with a recognisable image extension). Animated GIFs are likely to be binned.
+* Do not link to not-work-safe materials without appropriate warning. You might get kicked despite the warning though, depending on the nature of the link.
 * Under no circumstances ever inline not-work-safe materials. You *will* be kicked.
-* You can upload images directly using the "upload" button.
+* You can upload and immediately inline mages using the "upload" button. (They will be uploaded to Stack Exchange's instance of Imgur).
 
 ### Code
 
@@ -62,7 +62,7 @@ if you want to try out chat features!**
 
 * You should [reply to specific messages](https://i.imgur.com/5zrvaV1.gif) when you're in a conversation.
 * Replying to a message will ping the person you're replying to, and create a link between the two messages.
-* You can also mention people outside of replies using `@nick` form (also called a ping).
+* You can also mention people without replying to a specific message using `@nick` form (also called a ping).
 * Do not ping more people than necessary.
 * You can reply to messages by using `:id` form. You can find the ID by checking message's permalink or
   using [chat extensions](https://github.com/rchern/StackExchangeScripts/).
@@ -79,16 +79,17 @@ if you want to try out chat features!**
 ### Moderation
 
 * Room owners have the ability to kick people who misbehave. You should report any issues to
-  currently active owners first (they can be recognised by an italicised nick).
+  currently active owners first (they can be recognised by an italicised nick or found in the
+  owner list on the [room's info page](http://chat.stackoverflow.com/rooms/info/10/loungec)).
 * Kicking suspends the offender from the room they were kicked in. Suspension time
   [depends on the amount of times the offender was kicked before](http://meta.stackexchange.com/questions/229905/239226#239226).
 * Issues with messages can be escalated to the entire chat by using the flag mechanism
-  Note: every active user that has more than 10k reputation will see and be able to act on
-  flagged message. Do not treat flags lightly.
+  Note: every active user that has more than 10k reputation will be bothered with, and be able to act on
+  the flagged message. Do not treat flags lightly.
 * Flagging is done by clicking the flag icon (on the left when you hover over a message), or
   choosing "flag as spam/offensive" from the message menu.
 * If [enough users](http://meta.stackoverflow.com/questions/100414/100439#100439) will deem the flag to be
-  valid, the offender will be automatically suspended from the entire chat.
+  valid, the offender will be automatically suspended from all rooms on the chat.
 * You can escalate issues to site moderators by choosing "flag for moderator" option in the message
   menu (on the bottom, without the flag icon next to it). **Use this as a last resort.**
 * **Abuse of the flag system will invoke the wrath of the entire chat.
