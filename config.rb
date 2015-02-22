@@ -19,6 +19,8 @@ activate :automatic_image_sizes
 activate :automatic_alt_tags
 activate :directory_indexes
 
+page '/404.html', :directory_index => false
+
 helpers CustomHelpers
 
 configure :development do
@@ -28,6 +30,6 @@ end
 configure :build do
     activate :minify_css
     activate :minify_javascript
-    activate :asset_hash
+    activate :asset_hash, :ignore => ['favicon.png']
     activate :relative_assets
 end
