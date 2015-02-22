@@ -19,17 +19,15 @@ Name            | Author                | Language | Description
 [suckage][2]    | DeadMG                | C++      | A text adventure where you travel through time while fleeing from the bloodthirsty goons of an evil corporation
 [Dagon][3]      | R. Martinho Fernandes | C#       | A clone of BSD robots, with time travel
 [Bufferfly][4]  | Loïc Faure-Lacroix    | Python   | A ''Butterfly Effect''-inspired text adventure
-[Arbol][5]      | Ell                   | Ruby     | An animated ASCII art tree.
+Arbol           | Ell                   | Ruby     | An animated ASCII art tree.
 [SeriousJam][6] | Xeo                   | C++      | A two-player game! Trap your opponent on the grid before they trap you!
-[Shit][7]       | Andy Prowl            | C++      | Memorise the numbers the computer gives you in the alloted time and see how many you can remember!
+Shit            | Andy Prowl            | C++      | Memorise the numbers the computer gives you in the alloted time and see how many you can remember!
 
 [1]: https://github.com/bananu7/Inline
 [2]: https://bitbucket.org/DeadMG/suckage
 [3]: https://github.com/rmartinho/dagon
 [4]: https://github.com/llacroix/bufferfly
-[5]: https://github.com/elliotpotts/arbol
 [6]: https://bitbucket.org/_xeo/seriousjam/
-[7]: https://github.com/andyprowl/shit
 
 ## Awards
 

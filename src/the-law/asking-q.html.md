@@ -6,7 +6,7 @@ So, you've come to our wonderful room. Great, we hope you stay and have a good t
 And you have a question — that's fine. But there are few important things you have to understand first.
 
 Since you're probably new to the room, and maybe SO chat in general, you should also read
-[/the-law/newbie-hints.html](newbie hints).
+[newbie hints](/the-law/newbie-hints).
 
 ## We're not Stack Overflow
 
@@ -61,7 +61,7 @@ code sample, which will be discussed next), you don't have to do that for us. It
 ### Code sample
 
 We can't help you if there's no code. You will be asked to provide the code. And it has to follow
-[http://sscce.org/](SSCCE) guidelines:
+[SSCCE](http://sscce.org/) guidelines:
 
 * **Short** — we will not read 1000 lines of code, we will not debug 1000 lines of code.
   If you're trying to force snippet like that through — see 'annoying'.

@@ -40,7 +40,6 @@ sorted alphabetically by the celebrity's last name and then roughly by publicati
 
 ## Scott Meyers
 * [A Unique Perspective on C++](http://www.youtube.com/watch?v=Ja5zJ_eAu-w)
-* [Generalizing Const](http://video.google.com/videoplay?docid=-4728145737208991310)
 * [Rvalue References](http://skillsmatter.com/podcast/home/move-semanticsperfect-forwarding-and-rvalue-references)
 * [Software Engineering Radio](http://www.se-radio.net/2010/04/episode-159-c-0x-with-scott-meyers)
 
@@ -50,11 +49,9 @@ sorted alphabetically by the celebrity's last name and then roughly by publicati
 * [C++11 Concurrency Series](http://www.corensic.com/Learn/Resources/ConcurrencyTutorialPartOne.aspx)
 
 ## Roger Orr
-* [The New C++ Standard](http://video.google.com/videoplay?docid=2165553273160626549)
 
 ## Bjarne Stroustrup
 * [C++0x An Overview: University of Waterloo](http://csclub.uwaterloo.ca/media/C++0x%20-%20An%20Overview)
-* [C++0x An Overview: Google](http://video.google.com/videoplay?docid=-3478907067117491758)
 * [C++0x An Overview: Conference INRIA](http://www-sop.inria.fr/geometrica/events/WG21_meeting_june_2008/ConfINRIA10juin1_stroustrup.rm)
 * [C++0x An Overview: CERN](http://indico.cern.ch/conferenceDisplay.py?confId=67017)
 * [Initialization Lists](http://www.youtube.com/watch?v=uEqknlxXJfg)
@@ -62,7 +59,6 @@ sorted alphabetically by the celebrity's last name and then roughly by publicati
 * [A Concept Design for C++](http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/A-Concept-Design-for-C-)
 
 ## Herb Sutter
-* [C++ Futures](http://video.google.com/videoplay?docid=7625918717318948700)
 * [Perspectives on C++](http://channel9.msdn.com/Shows/Going+Deep/E2E-Herb-Sutter-and-Erik-Meijer-Perspectives-on-C)
 * [Perspectives on Modern C++](http://channel9.msdn.com/Shows/Going+Deep/Conversation-with-Herb-Sutter-Perspectives-on-Modern-C0x11)
 * [C++0x Lambda Functions](http://vimeo.com/23975522)
