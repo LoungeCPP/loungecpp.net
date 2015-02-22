@@ -1,20 +1,18 @@
 ---
 title: Project names
 ---
-[[Category:Projects]]
 This is a list of random names from where you can pick when you need to name a project.
 
 Add names as you please.
 
 Cross names out as you use them.
 
-* <s>proteus</s>
-* <s>dagon</s>
+* ~~proteus~~
+* ~~dagon~~
 * ranken
-* <s>hya</s>
+* ~~hya~~
 * harmonius ( harmodius )
 * lowana
 * paragon
 * eissa
 * projecy
-
