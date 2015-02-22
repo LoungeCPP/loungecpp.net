@@ -1,7 +1,0 @@
-<ruleset name="loungecpp.net">
-    <target host="loungecpp.net"/>
-    <target host="*.loungecpp.net"/>
-
-    <rule from="^http://loungecpp\.net/" to="https://loungecpp.net/"/>
-    <rule from="^http://([^/:@]*)\.loungecpp\.net/" to="https://$1.loungecpp.net/"/> 
-</ruleset>
