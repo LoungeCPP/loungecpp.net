@@ -4,7 +4,7 @@ title: Commonly used acronyms
 Because of the endless waves of confusion, here's the most common acronyms used in the Lounge (YMMV).
 Feel free to expand (no such thing as notability — but try not to invent new ones that nobody ever used).
 
-If in doubt, you can look-up acronyms at [http://acronyms.thefreedictionary.com/](TheFreeDictionary).
+If in doubt, you can look-up acronyms at [TheFreeDictionary](http://acronyms.thefreedictionary.com/).
 Note that the list is not necessarily sorted.
 
 ## Generic chat acronyms
