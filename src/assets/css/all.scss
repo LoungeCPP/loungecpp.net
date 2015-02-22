@@ -1,5 +1,5 @@
 @import "vars";
-@import "reset";
+@import "normalize";
 
 body {
     background: $silver;
@@ -72,7 +72,7 @@ pre {
     overflow: auto;
 }
 
-.wikitable {
+table {
     & > thead, & > tbody, & > tfoot {
         & > tr {
             & > th, & > td {
@@ -135,4 +135,14 @@ pre {
     font-size: $font-size;
     font-weight: normal;
     float: right;
+}
+
+kbd {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 0.1em 0.5em;
+    margin: 0 0.2em;
+    box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #ffffff inset;
+    background-color: #f7f7f7;
 }
