@@ -6,7 +6,7 @@
       = render_title(current_page.data.title)
     = stylesheet_link_tag 'all'
     = javascript_include_tag 'all'
-    = favicon_tag 'favicon.png'
+    = favicon_tag '/favicon.png'
   %body{class: page_classes}
     .page-container
       %header.page-header
@@ -17,7 +17,8 @@
       %footer.page-footer
         %p
           Content on Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported unless noted otherwise.
-          Uses Google Analytics which sets a tracking cookie for statistical purposes (see <a href="https://www.google.com/analytics/learn/privacy.html">GA privacy policy</a>).
+          Uses Google Analytics which sets a tracking cookie for statistical purposes
+          (see <a href="https://www.google.com/analytics/learn/privacy.html">GA privacy policy</a>).
         %p
           Source lives in a <a href="https://github.com/LoungeCPP/loungecpp.net">GitHub repository</a> and is powered
           by <a href="http://middlemanapp.com/">Middleman</a>. Open a PR if you want to change anything.

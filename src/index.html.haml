@@ -3,14 +3,14 @@
 %ul
   - sitemap.resources.select { |x| x.path.start_with? 'the-law/' }.each do |page|
     %li
-      = link_to page.data.title, page, :relative => true
+      = link_to page.data.title, page
 
 %h2
   Other stuff
 %ul
   - sitemap.resources.select { |x| (!x.data.title.nil?() && !x.path.start_with?('the-law/')) }.each do |page|
     %li
-      = link_to page.data.title, page, :relative => true
+      = link_to page.data.title, page
 
 %h2
   Platform is dead
