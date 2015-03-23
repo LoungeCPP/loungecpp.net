@@ -19,3 +19,25 @@ title: Game Marmalade
 1. External libraries are allowed with the following conditions:
     1. The libraries are available in a form that allows *anyone* (in particular, not only jam participants) to run the game. Open source libraries satisfy this condition automatically. Closed source libraries can either be statically or dynamically linked, with all necessary binaries provided alongside game source.
     1. The libraries used must be disclosed in the entry's description.
+
+### Entries
+
+Name                    | Author                        | Language
+----------------------- | ----------------------------- | -------- 
+[shit3][1]              | Andy Prowl                    | C#       
+[falling-fellow][2]     | copy                          | OCaml
+[bugfree-adventure][3]  | Nooble                        | _
+[Lounge-Marmaloode][4]  | Blob                          | C++
+[mao][5]                | kbok                          | C#
+[TextAsteroids][6]      | melak47                       | C++
+[letter-frenzy][7]      | Cinch                         | C++
+[Marmalade][8]          | Bartek Banachewicz & Puppy    | TypeScript
+
+[1]: https://github.com/andyprowl/shit3
+[2]: https://github.com/copy/falling-fellow
+[3]: https://github.com/Nooble/bugfree-adventure
+[4]: https://github.com/ThisIsMyNick/Lounge-Marmaloode
+[5]: https://github.com/kbok/mao
+[6]: https://github.com/melak47/TextAsteroids
+[7]: https://github.com/VermillionAzure/letter-frenzy
+[8]: https://github.com/bananu7/Marmalade
