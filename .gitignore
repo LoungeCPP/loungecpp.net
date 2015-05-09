@@ -3,3 +3,5 @@ dist/
 .vagrant/
 dist*.tar*
 *.swp
+_site/
+.jekyll.metadata

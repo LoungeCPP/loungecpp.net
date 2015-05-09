@@ -1,0 +1,39 @@
+title: Lounge<C++>
+baseurl: ""
+url: "http://loungecpp.net"
+markdown: kramdown
+kramdown:
+    input: GFM
+exclude:
+    - vendor
+    - .travis.yml
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: default
+    -
+        scope:
+            path: "assets"
+        values:
+            layout: null
+collections:
+    the_law:
+        output: true
+        permalink: /the-law/:path/
+    cpp:
+        output: true
+        permalink: /cpp/:path/
+    events:
+        output: true
+        permalink: /events/:path/
+    fun:
+        output: true
+        permalink: /fun/:path/
+    projects:
+        output: true
+        permalink: /projects/:path/

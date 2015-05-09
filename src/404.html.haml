@@ -1,9 +1,0 @@
-%h1
-  Page not found
-%p
-  You're probably looking for one of these. If not, go to the <a href="/">index page</a>.
-
-%ul
-  - sitemap.resources.select { |x| x.path.start_with? 'the-law/' }.each do |page|
-    %li
-      = link_to page.data.title, page

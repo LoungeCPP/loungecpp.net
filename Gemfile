@@ -1,10 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'middleman',      '~> 3.3.7'
-gem 'haml',           '~> 4.0.6'
-gem 'wikicloth',      '~> 0.8.1'
-gem 'tilt',           '~> 1.4.1'
-gem 'compass',        '~> 1.0.1'
-gem 'bootstrap-sass', '~> 3.3.1'
-gem 'redcarpet',      '~> 3.2.2'
-gem 'html-proofer',   '~> 2.1.0'
+gem 'html-proofer'
+gem 'github-pages'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

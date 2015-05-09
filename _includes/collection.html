@@ -1,0 +1,6 @@
+<h2>{{ include.title }}</h2>
+<ul>
+    {% for page in include.collection %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+</ul>
