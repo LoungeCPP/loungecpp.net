@@ -11,7 +11,7 @@ these to inspire you or something. Feel free to add your own ideas.
 C++ is lacking when it comes to nice open-source benchmarking tools. Kinda ridiculous when it is touted as good for writing
 stuff when performance matters. It lacks something that goes beyond sticking things in a loop and surround it with calls
 to `system_clock::now()`. Something that knows about confounding factors, and statistics, and stuff. Something that does
-for C++ what [Criterion](http://www.serpentine.com/blog/2009/09/29/criterion-a-new-benchmarking-library-for-haskell/) does for Haskell.
+for C++ what [Criterion](http://www.serpentine.com/criterion/) does for Haskell.
 
 ## Documentation generator
 
