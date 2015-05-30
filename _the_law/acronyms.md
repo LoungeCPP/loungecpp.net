@@ -24,6 +24,8 @@ IIUC    | If I understand correctly
 IME     | In my experience
 IMO     | In my opinion
 IMHO    | In my humble opinion
+IOW     | In other words
+IANAL   | I Am Not A Lawyer
 IMNSHO  | In my not so humble opinion
 ISTR    | I seem to remember
 ITT     | In this thread
