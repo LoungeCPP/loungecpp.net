@@ -1,5 +1,5 @@
 ---
-title: Newbie Hints
+title: The Rules
 ---
 ## Welcome to the Lounge!
 
