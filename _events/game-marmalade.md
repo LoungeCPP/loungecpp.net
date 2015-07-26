@@ -27,7 +27,7 @@ Name                    | Author                        | Language
 [shit3][1]              | Andy Prowl                    | C#       
 [falling-fellow][2]     | copy                          | OCaml
 [bugfree-adventure][3]  | Nooble                        | _
-[Lounge-Marmaloode][4]  | Blob                          | C++
+Lounge-Marmaloode       | Blob                          | C++
 [mao][5]                | kbok                          | C#
 [TextAsteroids][6]      | melak47                       | C++
 [letter-frenzy][7]      | Cinch                         | C++
@@ -36,7 +36,6 @@ Name                    | Author                        | Language
 [1]: https://github.com/andyprowl/shit3
 [2]: https://github.com/copy/falling-fellow
 [3]: https://github.com/Nooble/bugfree-adventure
-[4]: https://github.com/ThisIsMyNick/Lounge-Marmaloode
 [5]: https://github.com/kbok/mao
 [6]: https://github.com/melak47/TextAsteroids
 [7]: https://github.com/VermillionAzure/letter-frenzy
