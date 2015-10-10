@@ -35,7 +35,7 @@ if you want to try out chat features!**
 * Messages that are one line can be up to 500 characters long. You can add newlines to make them bigger.
 * Messages that are too big will be truncated and require users to explicitly expand them (they might also get binned).
 * Messages are written using a trimmed down dialect of [Markdown](http://chat.stackoverflow.com/faq#formatting).
-* If message has more than one line, the only Markdown elements that work inside it are
+* When a message has more than one line, the only Markdown elements that work inside it are
   [block quote and code block](http://meta.stackoverflow.com/questions/70141/70142#70142) (i.e. indentation).
 * You can edit and delete your messages for 2 minutes after they were first posted
   (hover over the message and click the arrow next to the avatar to expand the menu with actions).
