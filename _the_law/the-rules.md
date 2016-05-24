@@ -56,6 +56,9 @@ if you want to try out chat features!**
   than one line).
 * Don't post large blocks of code inline: use [Coliru](http://coliru.stacked-crooked.com/) or [Gist](https://gist.github.com/)
   and post a link instead.
+  Note: whatever size is considered "large" is completely arbitrary and depends on the current
+  room owners present in the room, as well as their moods. The binning decisions are made ad-hoc
+  and can be made by any room owner.
 * Use Coliru or other online compiler especially if you're posting a test case.
 
 ### Pinging and replying
