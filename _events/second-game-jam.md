@@ -9,7 +9,7 @@ In no particular order
 
 Name                              | Author                | Language     | Description
 ---------------                   | --------------------- | --------     | -----------
-[Pork][1]                         | rightfold             | Befunge, C++ | A herding simulator where you have to prevent some pigs from escaping
+Pork                              | rightfold             | Befunge, C++ | A herding simulator where you have to prevent some pigs from escaping
 [Sheep and Cabbage][2]            | Abyx                  | C++          | A herding simulator where you have to fix a fence before the sheep escape and eat the cabbage
 [Fugam][3]                        | Ell                   | Ruby         | Herd the shadows to let them escape
 [Herding Simulator 2014][4]       | Rapptz                | C++          | A herding simulator
@@ -17,7 +17,6 @@ Name                              | Author                | Language     | Descr
 [Fishy][6]                        | DeadMG and melak47    | C++          | Run away from the sheep!
 [Prison Breakage][7]              | Bartek and Cicada     | Lua          | Evade the herding guards!
 
-[1]: https://github.com/rightfold/pork
 [2]: https://github.com/ascheglov/LoungeGameJam2
 [3]: https://github.com/elliotpotts/Fugam/releases/tag/0.1
 [4]: https://github.com/Rapptz/compo-two/releases/tag/fun

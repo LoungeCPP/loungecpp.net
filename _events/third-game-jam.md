@@ -12,9 +12,7 @@ Theme options:
 Name                 | Author                | Language | Description
 -------------------- | --------------------- | -------- | -----------
 The Shit 2 Game      | Andy Prowl            | C++      | The goal of the game is to predict where the ball will end up once thrown into the board.
-[2048 3D][2]         | melak47               | C++      | A Puzzle/numbers game based on http://git.io/2048 extrapolated to 3D.
-
-[2]: https://github.com/melak47/2048_3D
+2048 3D              | melak47               | C++      | A Puzzle/numbers game based on http://git.io/2048 extrapolated to 3D.
 
 ## Awards
 
@@ -44,4 +42,3 @@ lol
 1. Awards
     1. Voting for awards takes place during the week following the end of the jam.
     1. Anyone can vote, even those that didn't participate.
-
