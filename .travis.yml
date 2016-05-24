@@ -2,7 +2,7 @@ sudo: false
 language: ruby
 rvm:
     - 2.1
-script: bundle exec jekyll build && bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html --file-ignore ./_site/googleaa8c12bcb9e64d17.html
+script: bundle exec jekyll build && bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --file-ignore ./_site/googleaa8c12bcb9e64d17.html
 branches:
     only:
         - gh-pages
