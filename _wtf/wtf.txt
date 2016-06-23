@@ -1,0 +1,17 @@
+$Lounge<C++>' acronym resolver file for the program wtf which is part of the bsdgames package.
+Keep the file sorted and the acronyms in all-caps. To be extended.$
+
+BADLET  person who does something bad, usually writing software. See http://youareabadlet.com/
+INB4	in before
+ITT	in this thread
+OMGWTFBBQ	oh my god what the fuck barbecue
+PLONK	probably ignore or something
+TIL	today I learned
+WOOOOOOOOOOSH	I made a joke that went over your head
+WOOOOOOOOSH	I made a joke that went over your head
+WOOOOOOOSH	I made a joke that went over your head
+WOOOOOOSH	I made a joke that went over your head
+WOOOOOSH	I made a joke that went over your head
+WOOOOSH	I made a joke that went over your head
+WOOOSH	I made a joke that went over your head
+WOOSH	I made a joke that went over your head
