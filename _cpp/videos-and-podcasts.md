@@ -44,8 +44,6 @@ sorted alphabetically by the celebrity's last name and then roughly by publicati
 * [Software Engineering Radio](http://www.se-radio.net/2010/04/episode-159-c-0x-with-scott-meyers)
 
 ## Bartosz Milewski
-* [Haskell and C++ Template Metaprogramming](http://vimeo.com/7211030)
-* [Understanding C++ Concepts through Haskell Type Classes](http://vimeo.com/17031425)
 * [C++11 Concurrency Series](http://www.corensic.com/Learn/Resources/ConcurrencyTutorialPartOne.aspx)
 
 ## Roger Orr
@@ -61,7 +59,6 @@ sorted alphabetically by the celebrity's last name and then roughly by publicati
 ## Herb Sutter
 * [Perspectives on C++](http://channel9.msdn.com/Shows/Going+Deep/E2E-Herb-Sutter-and-Erik-Meijer-Perspectives-on-C)
 * [Perspectives on Modern C++](http://channel9.msdn.com/Shows/Going+Deep/Conversation-with-Herb-Sutter-Perspectives-on-Modern-C0x11)
-* [C++0x Lambda Functions](http://vimeo.com/23975522)
 * [C++ Questions and Answers](http://channel9.msdn.com/Shows/Going+Deep/Herb-Sutter-C-Questions-and-Answers)
 * [Why C++?](http://channel9.msdn.com/posts/C-and-Beyond-2011-Herb-Sutter-Why-C)
 * [C++11, VC++11 and Beyond](http://channel9.msdn.com/Events/GoingNative/GoingNative-2012/C-11-VC-11-and-Beyond)
