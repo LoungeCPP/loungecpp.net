@@ -11,14 +11,13 @@ Name                              | Author                | Language     | Descr
 ---------------                   | --------------------- | --------     | -----------
 Pork                              | rightfold             | Befunge, C++ | A herding simulator where you have to prevent some pigs from escaping
 [Sheep and Cabbage][2]            | Abyx                  | C++          | A herding simulator where you have to fix a fence before the sheep escape and eat the cabbage
-[Fugam][3]                        | Ell                   | Ruby         | Herd the shadows to let them escape
+Fugam                             | Ell                   | Ruby         | Herd the shadows to let them escape
 [Herding Simulator 2014][4]       | Rapptz                | C++          | A herding simulator
 [Bad Rats 2: Hyperactive Rats][5] | Cat and Robot         | C#           | A roguelike where you try to fix your broken zombie robot and escape a dungeon full of hyperactive rats.
 [Fishy][6]                        | DeadMG and melak47    | C++          | Run away from the sheep!
 [Prison Breakage][7]              | Bartek and Cicada     | Lua          | Evade the herding guards!
 
 [2]: https://github.com/ascheglov/LoungeGameJam2
-[3]: https://github.com/elliotpotts/Fugam/releases/tag/0.1
 [4]: https://github.com/Rapptz/compo-two/releases/tag/fun
 [5]: https://github.com/rmartinho/tglgj2/releases/tag/competing
 [6]: https://github.com/melak47/Fishy/releases/tag/1
