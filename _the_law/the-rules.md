@@ -18,9 +18,10 @@ and now the usual reaction is "go away".
 
 Now, if you lurk for a while, you might realize that we have no problem in answering questions asked
 by a regular. So what's going on? Well, we are a small community after all, and now it seems you have
-to earn your "right to ask" in the Lounge by becoming part of that community. If you don't have time
-for that, or don't care for that, then go on Stack Overflow instead. And please, for the love of all
-that is nice and fluffy, don't act like we owe you something. You'll get flamed to death (and kicked).
+to earn your "right to ask" in the Lounge by becoming part of that community. You can instead go to the  
+[C++ Q&A chatroom](http://chat.stackoverflow.com/rooms/116940/c-questions-and-answers) to ask questions.
+Someone will be lurking there most of the time so just ask there instead. And please, for the love of 
+all that is nice and fluffy, don't act like we owe you something. You'll get flamed to death (and kicked).
 
 With that in mind, introduce yourself, try participating in the various discussions, and have fun.
 That's what the Lounge is about, after all.
