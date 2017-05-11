@@ -49,7 +49,7 @@ if you want to try out chat features!**
 * You can inline images (URL must end with a recognisable image extension). Animated GIFs are likely to be binned.
 * Do not link to not-work-safe materials without appropriate warning. You might get kicked despite the warning though, depending on the nature of the link.
 * Under no circumstances ever inline not-work-safe materials. You *will* be kicked.
-* You can upload and immediately inline mages using the "upload" button. (They will be uploaded to Stack Exchange's instance of Imgur).
+* You can upload and immediately inline images using the "upload" button. (They will be uploaded to Stack Exchange's instance of Imgur).
 
 ### Code
 
