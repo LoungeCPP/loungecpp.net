@@ -44,7 +44,6 @@ sorted alphabetically by the celebrity's last name and then roughly by publicati
 * [Software Engineering Radio](http://www.se-radio.net/2010/04/episode-159-c-0x-with-scott-meyers)
 
 ## Bartosz Milewski
-* [C++11 Concurrency Series](http://www.corensic.com/Learn/Resources/ConcurrencyTutorialPartOne.aspx)
 
 ## Roger Orr
 

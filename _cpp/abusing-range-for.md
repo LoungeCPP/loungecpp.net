@@ -44,7 +44,7 @@ The code in the loop would run only when the optional holds a value (and only on
 
 One interesting property of the range-based loop is that, if the range is a temporary,
 its lifetime is the whole loop (all iterations). This allows us to throw RAII semantics into mix.
-And what interesting things can we do with this? [Naturally enforced and properly scoped locks](http://ideone.com/HK4Kw)!
+And what interesting things can we do with this? Naturally enforced and properly scoped locks!
 
 The idea is to, instead of keeping a mutex and the shared data it protects both visible and separate,
 we hide the data away and only reveal it when the mutex is acquired. We write a class with the mutex
