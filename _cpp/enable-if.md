@@ -60,7 +60,7 @@ template <typename Head, typename... Tail>
 struct All<Head, Tail...> : Conditional<Head, All<Tail...>, std::false_type> {};
 
 template <typename... Condition>
-using EnableIf = Invoke<std::enable_if<All<Condition...>>;
+using EnableIf = Invoke<std::enable_if<All<Condition...>::value>;
 
 template <typename T
         , typename = EnableIf<std::is_polymorphic<T>, std::is_empty<T>>
@@ -109,7 +109,7 @@ An alternative way of fixing this is by tweaking the SFINAEing parameter and our
 enum class enabled { _ }; // just a type that can be used as a template parameter and is as inocuous as possible
 constexpr auto _ = enabled::_; // shortcut for dummy value (do not place _ in global scope!)
 template <typename... Condition>
-using EnableIf = Invoke<std::enable_if<All<Condition...>, enabled>>; // now EnableIf<...> isn't void, but enabled
+using EnableIf = Invoke<std::enable_if<All<Condition...>::value, enabled>>; // now EnableIf<...> isn't void, but enabled
 
 template <typename T
         , EnableIf<std::is_polymorphic<T>> = _ // default to the dummy value
@@ -131,7 +131,7 @@ One can get rid of the dummy by making the SFINAEing template parameter a templa
 ```
 enum class enabled {}; // no value necessary
 template <typename... Condition>
-using EnableIf = Invoke<std::enable_if<All<Condition...>, enabled>>; // same as before
+using EnableIf = Invoke<std::enable_if<All<Condition...>::value, enabled>>; // same as before
 
 template <typename T
         , EnableIf<std::is_polymorphic<T>>... // no defaults needed: pack will be empty
