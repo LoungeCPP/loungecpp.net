@@ -60,7 +60,7 @@ template <typename Head, typename... Tail>
 struct All<Head, Tail...> : Conditional<Head, All<Tail...>, std::false_type> {};
 
 template <typename... Condition>
-using EnableIf = Invoke<std::enable_if<All<Condition...>::value>;
+using EnableIf = Invoke<std::enable_if<All<Condition...>::value>>;
 
 template <typename T
         , typename = EnableIf<std::is_polymorphic<T>, std::is_empty<T>>
