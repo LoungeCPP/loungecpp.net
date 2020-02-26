@@ -14,6 +14,6 @@ There were no specific rules other than to have a snake game finished by the dea
 Name                    | Author                | Language | Description
 ----------------------- | --------------------- | -------- | -----------
 [Snake overflow][1]     | Andy Prowl            | C++      | A 3D snake game, because never not make a snake game.
-jabbasnake              | CatPlusPlus           | JS       | its a snake, [demo](https://thecatplusplus.github.io/jabbasnake/)
+jabbasnake              | CatPlusPlus           | JS       | its a snake
 
 [1]: https://github.com/andyprowl/snake-overflow
