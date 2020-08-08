@@ -32,7 +32,7 @@ lol
        distributions make it easier for potential voters to try out the game.)
     1. Entries can make use of any kind of graphics.
     1. Shortly before the jam starts three themes will be selected randomly from the
-       Cowface Games generator and three other
+       Cowface Games generator (link dead: http://www.cowfacegames.com/handytools/ludum-dare-theme-generator) and three other
        themes from the [Orteil's Stuff generator](http://orteil.dashnet.org/gamegen) (with Sanity off).
        Each participant has to incorporate some of those themes in their entry. Either 2 themes out of the 3 generated
        with the Cowface Games generator, or 1 theme out of the 3 generated with the Orteil's Stuff generator.
