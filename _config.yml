@@ -24,18 +24,9 @@ defaults:
         values:
             layout: null
 collections:
-    the_law:
-        output: true
-        permalink: /the-law/:path/
     cpp:
         output: true
         permalink: /cpp/:path/
     events:
         output: true
         permalink: /events/:path/
-    fun:
-        output: true
-        permalink: /fun/:path/
-    projects:
-        output: true
-        permalink: /projects/:path/
